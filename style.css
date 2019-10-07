@@ -1,0 +1,11 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    background-color: #ffffff;
+}
+@font-face {
+    font-family: "Circe";
+    src: url("fonts/Circe-Regular.woff") format("woff");
+    font-weight: regular;
+    font-style: normal;
+}
